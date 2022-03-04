@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1645574756 source:c:\workspace\0223\성적프로그램\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<mem.h>
+	<string.h>
+
