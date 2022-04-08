@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1645597974 source:c:\workspace\0222\성적프로그램\main.c
+	"student_dll.h"
+
+1645597897 c:\workspace\0222\성적프로그램\student_dll.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
